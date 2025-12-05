@@ -1,0 +1,7 @@
+203.0.113.10 OK /index.html
+198.51.100.23 FAIL /login
+203.0.113.10 OK /about
+192.0.2.44 FAIL /login
+198.51.100.23 OK /index.html
+192.0.2.44 FAIL /reset
+203.0.113.10 FAIL /login
