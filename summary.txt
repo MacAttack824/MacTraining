@@ -1,0 +1,4 @@
+  7 access.log
+  4 alerts.log
+  7 sorted.log
+ 18 total
